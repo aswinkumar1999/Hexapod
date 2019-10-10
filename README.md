@@ -52,13 +52,13 @@ the code is present is Standup.ino
 
 ## Goals 
 
-[x] Hardware Calibration (Roughly Setting Zeros)
-[ ] Software Calibration (Set Accurate Zeros for Each Servo) 
-[ ] Come up with a Better Way for making it stand up in one go.
-[ ] Make it move forward by Hardcoding
-[ ] Make it move forward continiously 
-[ ] Make it move in all directions
-[ ] Try Reinforcement Learning for Making it walk 
+- [x] Hardware Calibration (Roughly Setting Zeros)
+- [ ] Software Calibration (Set Accurate Zeros for Each Servo) 
+- [ ] Come up with a Better Way for making it stand up in one go.
+- [ ] Make it move forward by Hardcoding
+- [ ] Make it move forward continiously 
+- [ ] Make it move in all directions
+- [ ] Try Reinforcement Learning for Making it walk 
 
 
 ## References 
