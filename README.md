@@ -43,5 +43,8 @@ There haven't been a lot of progress in the Software as the Electronics and Hard
 
 #### Approach for Standing up : 
 
-I have tried making it standing up , but it slips a good number of times before attaing it's stability.One possible explanation is the COM of the Pod is Towards one side of it rather than being in the center.
+I have tried making it standing up , but sometimes it works and soemtimes it slips a good number of times before attaing it's stability.One possible explanation is the COM of the Pod is Towards one side of it rather than being in the center.
 
+the code is present is Standup.ino
+
+![Standup](/images/standup.gif?raw=true "Standup") 
