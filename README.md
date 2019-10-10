@@ -15,9 +15,7 @@ Required
 
 Approx Total  : ~70$
 
-![H1](/images/1.png?raw=true "Result")
-![H2](/images/2.png?raw=true "Result")
-![My Final build](/images/5.jpeg?raw=true "Result")
+![My Final build](/images/1.png?raw=true "Result")
 
 
 ## Electronics 
@@ -28,15 +26,14 @@ I am using the I2C bus to Communicate with both of PCA9685 and IMU ( MPU-6050 ) 
 
 I built a Board with the PCB with Male and Female headers to attach and remove the modules.
 
-![Front](/images/3.jpeg?raw=true "Result")
-![Back](/images/4.jpeg?raw=true "Result")
+![Board](/images/2.png?raw=true "Board")
 
 All the Modules would be attached to this and we have the Female header for Two main purposes 
 
 * Power all the Modules using the SMPS
 * In case of Debugging, Would be easier to find out the problem.
 
-![Circuit](/images/6.png?raw=true "Result") 
+![Circuit](/images/3.png?raw=true "Result") 
 
 ** Fritzing Circuit Yet to be uplaoded ** 
 
@@ -46,5 +43,8 @@ There haven't been a lot of progress in the Software as the Electronics and Hard
 
 #### Approach for Standing up : 
 
-I have tried making it standing up , but it slips a good number of times before attaing it's stability.One possible explanation is the COM of the Pod is Towards one side of it rather than being in the center.
+I have tried making it standing up , but sometimes it works and soemtimes it slips a good number of times before attaing it's stability.One possible explanation is the COM of the Pod is Towards one side of it rather than being in the center.
 
+the code is present is Standup.ino
+
+![Standup](/images/standup.gif?raw=true "Standup") 
