@@ -26,14 +26,14 @@ I am using the I2C bus to Communicate with both of PCA9685 and IMU ( MPU-6050 ) 
 
 I built a Board with the PCB with Male and Female headers to attach and remove the modules.
 
-![Board](/images/3.png?raw=true "Board")
+![Board](/images/2.png?raw=true "Board")
 
 All the Modules would be attached to this and we have the Female header for Two main purposes 
 
 * Power all the Modules using the SMPS
 * In case of Debugging, Would be easier to find out the problem.
 
-![Circuit](/images/2.png?raw=true "Result") 
+![Circuit](/images/3.png?raw=true "Result") 
 
 ** Fritzing Circuit Yet to be uplaoded ** 
 
