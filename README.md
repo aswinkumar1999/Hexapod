@@ -49,6 +49,17 @@ the code is present is Standup.ino
 
 ![Standup](/images/standup.gif?raw=true "Standup") 
 
+## Approach for motion
+
+For forward/backward motion:-
+
+I have used a simple kind of mechanism in which it's COM is maintained by moving diagnally opposite legs at a time.
+
+
+For right and left turn:-
+
+Three legs which form a triangle are moved at a time so that it's net movement is in the right direction and next the other three are moved.
+
 
 ## Goals 
 
